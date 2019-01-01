@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-export PATH="./bin:/usr/local/bin:/usr/local/sbin:$ZSH/bin:$PATH"
+export PATH="./bin:/usr/local/bin:/usr/local/sbin:$MYZSH/bin:$PATH"
 export MANPATH="/usr/local/man:/usr/local/mysql/man:/usr/local/git/man:$MANPATH"
 
 export PATH="$HOME/bin:/usr/local/sbin:$HOME/.composer/vendor/bin:/usr/local/bin:/usr/local/share/python:/usr/bin:/bin:/usr/sbin:/sbin:$PATH"
